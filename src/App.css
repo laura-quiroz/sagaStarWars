@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+#logo{
+  height: 110px;
+  width: 400px;
+}
+.App_Menu{
+  padding: 1em;
+  max-width: 580px;
+margin: 0 auto;
+text-align: center;
+}
+.App_Menu_Cont{
+  padding: 1em;
+  max-width: 580px;
+margin: 0 auto;
+text-align: justify;
+}
+.App_Menu_Cont2{
+  font-size: 16px;
+  color: black;
+  padding: 0.7em;
+}
